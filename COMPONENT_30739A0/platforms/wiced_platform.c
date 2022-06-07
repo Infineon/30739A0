@@ -1,5 +1,5 @@
 /*
- * Copyright 2016-2021, Cypress Semiconductor Corporation (an Infineon company) or
+ * Copyright 2016-2022, Cypress Semiconductor Corporation (an Infineon company) or
  * an affiliate of Cypress Semiconductor Corporation.  All rights reserved.
  *
  * This software, including source code, documentation and related
@@ -32,7 +32,7 @@
  */
 #include <stdio.h>
 
-#include <platform_retarget_lock.h>
+#include "platform_retarget_lock.h"
 #include "spar_utils.h"
 #ifdef BLE_OTA_FW_UPGRADE
 #include <wiced_bt_ota_firmware_upgrade.h>

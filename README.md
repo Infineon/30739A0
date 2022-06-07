@@ -17,7 +17,7 @@ The Infineon AIROC&#8482; CYW30739 is an ultra-low-power multi-protocol system o
 
 ## Kits Supported
 #### CYW930739M2EVB-01:
-- 40-QFN AIROC&#8482; CYW30739 multi-protocol SoC with external 8TR8211C Low Noise Amplifier and Power Amplifier (eLNA/ePA),
+- 40-QFN AIROC&#8482; CYW30739 multi-protocol system on chip with external 8TR8211C Low Noise Amplifier and Power Amplifier (eLNA/ePA),
   ambient light sensor, thermistor, footprint for Infineon digital microphone,
   user switches and LEDs, and a USB connector for power, programming, and USB-UART bridge.<br>
   Max UART baud rate is 3M
